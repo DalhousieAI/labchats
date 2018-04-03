@@ -43,7 +43,6 @@ Here, please offer to do a tutorial for the group that focuses on a technique or
   <tr>
     <th>Topic</th>
     <th>Presenter</th>
-    
     <th>Date</th>
   </tr>
   
