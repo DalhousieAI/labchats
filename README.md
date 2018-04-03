@@ -2,7 +2,7 @@
 
 A place to manage lab meetings and materials thereof. Please clone or fork a copy.
 
-We are all encouraged to add items to the lists below. See (daringfireball.net/projects/markdown)[daringfireball.net/projects/markdown] for help with Markdown syntax if necessary.
+We are all encouraged to add items to the lists below. See [here](http://daringfireball.net/projects/markdown) for help with Markdown syntax if necessary.
 
 Please do not store papers or other copyrighted materials here, unless those files' licensing terms are permissive.
 
