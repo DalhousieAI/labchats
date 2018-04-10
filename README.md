@@ -10,9 +10,10 @@ Please do not store papers or other copyrighted materials here, unless those fil
 
 Please sign up here to present a project at our meetings. You can sign up for any meeting.
 
-|     Name       |      Date    |
-|----------------|--------------|
-| Ronald Fisher  |      Never   |
+|     Name       |      Date      |   Topic    |
+|----------------|----------------|------------|
+| A Nunes        |  Tues 24 April | word2brain |
+| Ronald Fisher  |      Never     |            |
 
 
 ## Papers to Review
