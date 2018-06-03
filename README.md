@@ -36,12 +36,12 @@ Here you can either list a paper to present yourself, but feel free to put a pap
   </tr>
   <tr>
     <td><a href="https://distill.pub">One or more visualization papers (details TBD)</a><\td>
-    <td> C Olah et al. <\td>
+    <td> C Olah et al. </td>
     <td> Sageev </td>
     <td> 5 June 2018 </td>
   </tr>
   <tr>
-    <td><a href="https://arxiv.org/abs/1609.04802" </a></td>
+    <td><a href="https://arxiv.org/abs/1609.04802" Photorealistic SuperRes with GANs </a></td>
     <td> C. Ledig et al. </td>
     <td> Will Stone </td>
     <td> 12 June 2018 </td>
