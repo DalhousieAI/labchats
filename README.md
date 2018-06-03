@@ -35,7 +35,7 @@ Here you can either list a paper to present yourself, but feel free to put a pap
     <td>TBD</td>
   </tr>
   <tr>
-    <td><a href="https://distill.pub">One or more visualization papers (details TBD)</a><\td>
+    <td><a href="https://distill.pub">One or more visualization papers (details TBD)</a></td>
     <td> C Olah et al. </td>
     <td> Sageev </td>
     <td> 5 June 2018 </td>
